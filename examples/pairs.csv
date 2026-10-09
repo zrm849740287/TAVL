@@ -1,0 +1,4 @@
+patient_id,split,pre,post1
+EXAMPLE_TRAIN,train,images/EXAMPLE_TRAIN_pre.nii.gz,images/EXAMPLE_TRAIN_post1.nii.gz
+EXAMPLE_VAL,val,images/EXAMPLE_VAL_pre.nii.gz,images/EXAMPLE_VAL_post1.nii.gz
+EXAMPLE_TEST,test,images/EXAMPLE_TEST_pre.nii.gz,images/EXAMPLE_TEST_post1.nii.gz

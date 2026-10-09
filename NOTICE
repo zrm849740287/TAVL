@@ -1,0 +1,14 @@
+TAVL-Syn source release
+
+This distribution reorganizes an existing conditional Rectified Flow implementation
+with Transport-Aware Velocity Steering and Damped Self-Correction. The existing
+GNU General Public License version 2 text is retained without modification.
+No new license or third-party copyright ownership is asserted by this cleanup.
+
+Neural-network parameter names and the legacy checkpoint protocol identifiers are
+retained for compatibility. Dataset images, patient identifiers, trained weights,
+experimental outputs, and workstation-specific configuration are not distributed.
+
+PyTorch, NumPy, SciPy, NiBabel, Pillow, scikit-image, and tqdm are external
+dependencies governed by their respective licenses. Dataset permissions and
+appropriate scientific citations remain separate from the source-code license.
